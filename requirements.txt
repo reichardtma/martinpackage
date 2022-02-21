@@ -34,3 +34,4 @@ termcolor
 #git+ssh://git@github.com/mobewe/myfirstpackage
 #git+ssh://git@github.com/rubenrossbach/wagonwheel
 #git+ssh://git@github.com/Morad4444/myfirstproject
+#git+ssh://git@github.com/LAnnamaria/newtry
