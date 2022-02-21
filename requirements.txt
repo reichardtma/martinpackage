@@ -29,7 +29,7 @@ memoized-property
 termcolor
 
 #Le Wagon DS Batch
-git+ssh://git@github.com/lilbronto/badeente
+#git+ssh://git@github.com/lilbronto/badeente
 #git+ssh://git@github.com/LAnnamaria/newtempam
 git+ssh://git@github.com/mobewe/myfirstpackage
 git+ssh://git@github.com/rubenrossbach/wagonwheel
